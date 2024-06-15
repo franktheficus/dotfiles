@@ -8,4 +8,8 @@ brew install stow
 dnf install stow
 ```
 
+## Commands
 
+```bash
+stow -nvSt ~ folder_name
+```

@@ -21,6 +21,7 @@
   "mini.ai": { "branch": "main", "commit": "9fef1097bca44616133cde6a6769e7aa07d12d7d" },
   "mini.pairs": { "branch": "main", "commit": "40261dfcec7623cd57be3c3beb50fa73f2650cdf" },
   "neo-tree.nvim": { "branch": "v3.x", "commit": "29f7c215332ba95e470811c380ddbce2cebe2af4" },
+  "neofusion.nvim": { "branch": "main", "commit": "d6c861b230ad67341db6916892939cf3c54a18f8" },
   "noice.nvim": { "branch": "main", "commit": "d3d83292c15cb8a72e1e421ddf5a0aac7812cb9c" },
   "nui.nvim": { "branch": "main", "commit": "322978c734866996274467de084a95e4f9b5e0b1" },
   "nvim-cmp": { "branch": "main", "commit": "a110e12d0b58eefcf5b771f533fc2cf3050680ac" },
